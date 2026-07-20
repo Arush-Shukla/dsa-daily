@@ -13,15 +13,18 @@
 
 ---
 
-## 📂 Repository Structure
+## 📚 Topics Covered
 
-```text
-gfg/
-└── arrays/
-
-daily-log.md
-README.md
-```
+- ✅ Arrays
+- ⏳ Strings
+- ⏳ Searching
+- ⏳ Sorting
+- ⏳ Linked List
+- ⏳ Stack
+- ⏳ Queue
+- ⏳ Trees
+- ⏳ Graphs
+- ⏳ Dynamic Programming
 
 ---
 
