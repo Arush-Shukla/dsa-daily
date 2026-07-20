@@ -33,7 +33,7 @@
 | Platform | Problems Solved |
 |----------|----------------:|
 | GFG | 2 |
-| LeetCode | 1 |
+| LeetCode | 2 |
 
 ---
 
