@@ -4,3 +4,4 @@
 | 2   | 2025-07-20 | Second Largest                          | GFG      | Arrays        | Easy       | ✅     |
 | 3   | 2025-07-20 | Two Sum II - Input Array Is sorted      | Leetcode | Two Pointers  | Medium     | ✅     |
 | 4   | 2025-07-20 | Remove Duplicates From Sorted Array     | Leetcode | Two Pointers  | Easy       | ✅     |
+| 5   | 2025-07-20 | Reverse String                          | Leetcode | Two Pointers  | Easy       | ✅     |
