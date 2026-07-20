@@ -36,4 +36,4 @@ README.md
 
 ## 📝 Daily Log
 
-Check **daily-log.md** to see my daily progress.
+👉 **[View my Daily DSA Log](daily-log.md)**
