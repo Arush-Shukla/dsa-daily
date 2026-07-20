@@ -15,7 +15,7 @@
 
 ## 📚 Topics Covered
 
-- ✅ Arrays
+- ⏳ Arrays
 - ⏳ Strings
 - ⏳ Searching
 - ⏳ Sorting
