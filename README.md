@@ -1,4 +1,3 @@
-# dsa-daily
 # 🚀 DSA Daily
 
 > My journey to master Data Structures & Algorithms through daily practice.
