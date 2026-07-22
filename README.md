@@ -32,7 +32,7 @@
 
 | Platform | Problems Solved |
 |----------|----------------:|
-| GFG | 2 |
+| GFG | 3 |
 | LeetCode | 3 |
 
 ---
