@@ -9,7 +9,8 @@
 |5|2025-07-20|Reverse String|Leetcode|Two Pointers|Easy|✅|
 |6|2025-07-20|Check Sorted Array|GFG|Arrays|Easy|✅|
 |7|2025-07-21|Move Zeroes|Leetcode|Two Pointers|Easy|✅|
-|8|2025-07-21|Max Consecutive Ones|Leetcode|Arrays|Easy|✅|
+|8|2025-07-22|Max Consecutive Ones|Leetcode|Arrays|Easy|✅|
+|9|2025-07-23|Linear Search|GFG|Arrays|Easy|✅|
 
 
 
