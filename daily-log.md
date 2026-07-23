@@ -11,6 +11,7 @@
 |7|2025-07-21|Move Zeroes|Leetcode|Two Pointers|Easy|✅|
 |8|2025-07-22|Max Consecutive Ones|Leetcode|Arrays|Easy|✅|
 |9|2025-07-23|Linear Search|GFG|Arrays|Easy|✅|
+|10|2025-07-23|Rotate Array|Leetcode|Arrays|Medium|✅|
 
 
 
