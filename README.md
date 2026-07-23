@@ -32,8 +32,8 @@
 
 | Platform | Problems Solved |
 |----------|----------------:|
-| GFG | 3 |
-| LeetCode | 3 |
+| GFG | 4 |
+| LeetCode | 6 |
 
 ---
 
