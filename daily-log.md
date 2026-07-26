@@ -12,7 +12,8 @@
 |8|2025-07-22|Max Consecutive Ones|Leetcode|Arrays|Easy|✅|
 |9|2025-07-23|Linear Search|GFG|Arrays|Easy|✅|
 |10|2025-07-23|Rotate Array|Leetcode|Arrays|Medium|✅|
-|11             |2025-07-23|Remove Element|Leetcode|Arrays|Easy|✅|
+|11|2025-07-23|Remove Element|Leetcode|Arrays|Easy|✅|
+|12|2025-07-26|Concatenation Of Array|Leetcode|Arrays|Easy|✅|
 
 
 
